@@ -872,7 +872,7 @@
     .foto-perfil {
         margin-left: 0;
         margin-right: 0;
-        margin-top: -53rem;
+        margin-top: -54rem;
     }
 
     .apresentacao-container {
@@ -892,21 +892,15 @@
     }
 
     .descricao {
+        width: 75vw;
         font-size: 1.1em;
-        margin-bottom: 1.8rem;
-        margin-left: -1.8rem;
-        padding-left: .7rem;
-        padding-right: 1.1rem;
+        margin-bottom: 1.5rem;
     }
 
     .btn-curriculo {
         width: 7.2rem;
         margin-right: .9rem;
         margin-left: .9rem;
-    }
-
-    .link-btn-home {
-        margin-top: -.9rem;
     }
 
      /*skills e hobbies*/
