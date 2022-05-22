@@ -730,12 +730,13 @@
     }
 
     .menu a {
+        width: 100%;
         font-size: .8rem;
         margin-left: 1.1rem;
     }  
     
     .btn-light {
-        margin-left: 1rem;
+        margin-top: .5rem;
         font-size: .8rem;
         width: 3.4rem;
     }
